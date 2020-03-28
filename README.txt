@@ -41,4 +41,4 @@ tile和map布局的大小是可以通过左右拖动边框来改变大小的。
 
 视频演示地址：https://www.bilibili.com/video/BV1Z7411m7vt/
 
-
+C语言开发世嘉MD游戏教程：https://blog.csdn.net/qq272508839/category_9528531.html
