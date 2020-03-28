@@ -1,0 +1,31 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "g++.exe build active file",
+            "command": "C:\\mingw32\\bin\\gcc.exe",
+            "args": [
+                "-g",
+                "${workspaceRoot}/src/main.c",
+                "-o",
+                "${workspaceRoot}\\out\\MegaDrive Tile Map Editor_v2.0.exe",
+                "-lmingw32",
+                "-lSDL2main",
+                "-lSDL2_test",
+                "-lSDL2",
+                "-mwindows"
+            ],
+            "options": {
+                "cwd": "C:\\mingw32\\bin"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "attribute.h": "c",
+        "header.h": "c",
+        "mytool.h": "c",
+        "dirent.h": "c",
+        "limits": "c",
+        "typeinfo": "c",
+        "sdl.h": "c",
+        "sdl_test_images.h": "c",
+        "time.h": "c",
+        "zlib.h": "c"
+    }
+}
